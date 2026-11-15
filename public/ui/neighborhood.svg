@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 528 156" shape-rendering="crispEdges">
+  <defs>
+    <pattern id="roof" width="12" height="6" patternUnits="userSpaceOnUse"><path fill="#b7643c" d="M0 0h12v6H0z"/><path fill="#ce8450" d="M0 0h10v2H0zM0 2h2v3H0z"/></pattern>
+    <pattern id="brick" width="20" height="10" patternUnits="userSpaceOnUse"><path fill="#f0d79c" d="M0 0h20v10H0z"/><path fill="#e6c282" d="M0 8h20v2H0zM8 0h2v8H8z"/></pattern>
+    <g id="window"><path fill="#775331" d="M0 0h18v21H0z"/><path fill="#acd3cf" d="M2 2h14v16H2z"/><path fill="#d9f2da" d="M3 3h5v6H3z"/><path fill="#f8eac0" d="M8 2h2v16H8zM2 10h14v2H2z"/><path fill="#956337" d="M-2 19h22v3H-2z"/></g>
+    <g id="tree"><path fill="#876239" d="M-4-4h9v38H-4z"/><path fill="#b4894a" d="M-2 6h3v26h-3z"/><path fill="#376747" d="M-13-34h26v5h7v8h6v19h-6v7H8v4h-19V4h-13v-7h-5v-19h6v-7h10z"/><path fill="#5c8b4e" d="M-12-33h24v6h7v9h5v12H11v4H-9v-5h-12v-16h6v-8h3z"/><path fill="#86ae5b" d="M-10-31h15v6h8v6H6v5H-7v6h-9v-14h6z"/><path fill="#a7bf69" d="M-7-28h7v5h-7zM-12-18h5v6h-5z"/></g>
+    <g id="pine"><path fill="#785b34" d="M-2 0h6v24h-6z"/><path fill="#376b4b" d="M-2-34h6v7h6v9h6v9h7V5h8v8H-29V5h8V-9h7v-9h6v-9h6z"/><path fill="#6d9957" d="M-2-32h4v8h6v8h6v9h6V3H9v-6H1v-7h-7v-8h4zM-17 2h5v8h-13V6h8z"/></g>
+    <g id="flower"><path fill="#5d8a48" d="M0 1h2v6H0zM-3 3h3v2h-3z"/><path fill="#f3cb62" d="M-2-3h6v5h-6z"/><path fill="#fff0ae" d="M0-2h2v2H0z"/></g>
+  </defs>
+  <path fill="#a6d9d2" d="M0 0h528v156H0z"/>
+  <path fill="#cce9d5" d="M0 59h28V45h22v12h18v-7h17v15h32V54h28v8h35V40h22v11h17v14h27V51h25v17h21V45h25v9h19V37h20v22h26V43h23v17h27V49h23v18h29V51h29v-9h20v27h34v87H0z"/>
+  <path fill="#e6f2d7" d="M196 22h18v-5h18v4h9v8h-45zM418 19h19v-7h24v6h11v10h-54zM82 28h20v-6h12v5h14v7H82z"/>
+  <path fill="#9bb877" d="M0 91h53v-7h34v8h28v-9h34v8h30v-9h28v11h43v-9h36v8h36v-9h31v10h35v-9h49v11h34v-9h57v70H0z"/>
+  <path fill="#b6c785" d="M0 104h528v52H0z"/>
+  <path fill="#e6c891" d="M0 137h202v-8h79v-10h54v-14h23v18h42v-8h36v11h92v25H0z"/>
+  <path fill="#f3d9a1" d="M0 139h206v-7h80v-10h54v-15h14v20h48v-9h32v12h94v13H0z"/>
+  <path fill="#c9b47e" d="M281 145h8v2h-8zM344 132h10v2h-10zM415 136h7v2h-7zM463 138h9v2h-9zM219 142h6v2h-6z"/>
+  <!-- A tall warm apartment block and a pair of smaller homes. -->
+  <path fill="#a4b573" d="M292 111h107v7H292z"/>
+  <path fill="#775133" d="M300 30h84v82h-84z"/>
+  <path fill="url(#brick)" d="M303 34h78v75h-78z"/>
+  <path fill="#83542f" d="M296 29h92v7h-92zM300 59h84v4h-84zM300 86h84v4h-84z"/>
+  <path fill="url(#roof)" d="M298 22h5v-8h70v5h7v6h10v7h-96v-6h4z"/>
+  <path fill="#74462d" d="M294 30h96v4h-96zM364 6h9v13h-9z"/><path fill="#ab7445" d="M366 8h5v10h-5z"/>
+  <use href="#window" x="310" y="36"/><use href="#window" x="335" y="36"/><use href="#window" x="360" y="36"/>
+  <use href="#window" x="310" y="64"/><use href="#window" x="335" y="64"/><use href="#window" x="360" y="64"/>
+  <path fill="#8c6039" d="M309 96h20v13h-20zM356 96h20v13h-20z"/><path fill="#abd1c5" d="M312 98h14v8h-14zM359 98h14v8h-14z"/>
+  <path fill="#6c512e" d="M337 92h15v19h-15z"/><path fill="#b9854b" d="M339 94h11v17h-11z"/><path fill="#edc770" d="M346 101h2v2h-2z"/>
+  <path fill="#cfad70" d="M333 111h23v3h-23zM330 114h29v3h-29z"/>
+  <!-- Lower cottage and flowering balcony. -->
+  <path fill="#7e5936" d="M215 80h66v35h-66z"/><path fill="#f2d9a3" d="M218 81h60v31h-60z"/>
+  <path fill="url(#roof)" d="M212 76h5v-6h7v-7h49v7h7v6h6v7h-74z"/><path fill="#805039" d="M210 81h78v4h-78z"/>
+  <use href="#window" x="222" y="86"/>
+  <path fill="#927044" d="M249 88h16v26h-16z"/><path fill="#b28b58" d="M252 91h10v23h-10z"/>
+  <path fill="#5f8d4d" d="M219 106h23v5h-23z"/><path fill="#e3a36a" d="M224 103h3v4h-3zM235 103h3v4h-3z"/>
+  <!-- Shared townhouse at the end of the lane. -->
+  <path fill="#785636" d="M403 59h77v61h-77z"/><path fill="#ecd8ad" d="M406 63h71v54h-71z"/>
+  <path fill="#658d76" d="M399 55h7v-7h10v-7h49v7h11v7h8v9h-85z"/><path fill="#4c735f" d="M398 62h87v4h-87z"/>
+  <use href="#window" x="414" y="70"/><use href="#window" x="447" y="70"/>
+  <path fill="#b18f61" d="M407 94h69v4h-69z"/><path fill="#7c5c3b" d="M437 101h14v18h-14z"/><path fill="#bc9154" d="M439 103h10v16h-10z"/>
+  <path fill="#a8c9bf" d="M414 103h13v10h-13zM457 103h13v10h-13z"/>
+  <!-- Trees, garden fences, and the small things that make a street lived-in. -->
+  <use href="#pine" x="288" y="74"/><use href="#tree" x="495" y="70"/><use href="#tree" x="192" y="81"/>
+  <path fill="#9b7847" d="M380 116h4v19h-4zM392 116h4v19h-4zM404 116h4v19h-4zM379 122h31v3h-31zM379 130h31v3h-31z"/>
+  <path fill="#d1ab6b" d="M381 117h2v17h-2zM393 117h2v17h-2zM405 117h2v17h-2z"/>
+  <path fill="#aa7845" d="M287 107h4v18h-4zM277 104h20v12h-20z"/><path fill="#f9e5ae" d="M279 106h16v8h-16z"/><path fill="#7e9a59" d="M282 109h10v2h-10z"/>
+  <path fill="#4f7745" d="M177 138h24v6h-24zM183 131h12v7h-12zM468 137h23v8h-23zM474 131h11v7h-11zM303 125h11v5h-11z"/>
+  <use href="#flower" x="211" y="124"/><use href="#flower" x="200" y="128"/><use href="#flower" x="458" y="127"/><use href="#flower" x="466" y="123"/><use href="#flower" x="314" y="132"/><use href="#flower" x="368" y="143"/>
+  <path fill="#dd9360" d="M424 117h3v-3h7v3h3v7h-13z"/><path fill="#6f8b54" d="M425 124h11v9h-11z"/><path fill="#6b4e33" d="M426 133h3v4h-3zM432 133h3v4h-3z"/>
+  <path fill="#f6e1aa" d="M517 129h-5v-3h-5v3h-4v6h11v-2h3z"/><path fill="#835d37" d="M507 134h2v3h-2zM512 134h2v3h-2z"/>
+</svg>
